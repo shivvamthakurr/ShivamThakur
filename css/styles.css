@@ -1,0 +1,152 @@
+a {
+  color: #3498db;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #ac4b1c;
+}
+
+body {
+  margin: 0;
+  font-family: 'Merriweather', serif;
+  text-align: center;
+  color: #572106;
+}
+
+hr {
+  border-top: 10px dotted #fca652; width: 5%;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #ac4b1c;
+  font-size: 100px;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #913c13;
+}
+p {
+  line-height: 2;
+}
+
+
+
+/***********************class based**************************/
+
+.botcloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+ }
+
+.bottom-container {
+  background-color: #ffd57e;
+
+}
+
+.btn {
+   -webkit-border-radius: 28;
+   -moz-border-radius: 28;
+   border-radius: 28px;
+   font-family: 'Montserrat', sans-serif;
+   font-weight: bolder;
+   color: #ac4b1c;
+   font-size: 20px;
+   background: #ffd57e;
+   padding: 10px 20px 10px 20px;
+   text-decoration: none;
+ }
+
+ .btn:hover {
+   text-decoration: none;
+   background: #ac4b1c;
+   color: #ffd57e;
+ }
+
+.chillies {
+  border-radius: 50%;
+  background-color: #ffefa0;
+  float: right;
+  margin-left: 40px;
+}
+
+.copyright {
+  color: #ac4b1c;
+  font-size: 0.75rem;
+  padding-bottom: 10px;
+}
+
+.first-container {
+  background-color: #ffefa0;
+  padding-top: 100px;
+  position: relative;
+}
+
+.foto {
+  width: 250px;
+  height: 250px;
+
+}
+
+
+.heading {
+  font-family: 'Sacramento', cursive;
+  font-size: 6.624rem;
+  margin-bottom: 0;
+  color: #ac4b1c
+}
+
+.intropa {
+  width: 50%;
+  margin: 0 auto 0 auto;
+}
+.me {
+  border-radius: 100%;
+  background-color: #ffefa0;
+  width: 300px;
+  height: 300px;
+}
+
+
+
+.profile {
+  margin: 100px;
+}
+
+.Programming {
+  border-radius: 100%;
+  background-color: #ffefa0;
+  max-height: 100%;
+  width: auto;
+  float: left;
+  margin-right: 40px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 200px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.sub {
+  margin-top: 0;
+  margin-bottom: 100;
+  color: #ac4b1c;
+  position: relative;
+  bottom: 10px;
+  font-size: 1.34rem;
+  font-weight: normal;
+}
+
+
+.topcloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
